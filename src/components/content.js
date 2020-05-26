@@ -5,10 +5,10 @@ import SectionHeader from "./section-header"
 import { COLORS } from "../styles/constants"
 
 const Content = () => (
-  <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
+  <div style={{ padding: "3rem 1rem", textAlign: "center" }}>
     <SectionHeader
-      title="Minimal Features"
-      description="Don't spend time ripping out unneeded plugins and bloat."
+      title="Easy Record"
+      description="별점으로 쉽게 기록하고 더 자세하게 후기를 남겨 만화를 찾는 사람들에게 도움을 주세요."
     />
     <content
       style={{
@@ -19,10 +19,9 @@ const Content = () => (
       }}
     >
       <div>
-        <h3>What you need to Start</h3>
+        <h3>Recommended System</h3>
         <p style={{ color: COLORS.gray }}>
-          Includes plugins for analytics, building sitemaps, and optimizing
-          images
+          기록해주신 만화 데이터를 활용하여 <br/>나에게 딱 맞는 만화를 추천해드립니다.
         </p>
       </div>
       <div>

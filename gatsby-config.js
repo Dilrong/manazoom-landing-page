@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Starter Landing Page`,
-    description: `A barebone landing page starter with some minimal styles.`,
+    title: `ManaZoom`,
+    description: `보고 싶은 만화 찾을 땐 Manazoom`,
     author: `@gillkyle`,
     siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
   },

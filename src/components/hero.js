@@ -26,12 +26,14 @@ const Header = ({ siteTitle }) => (
         opacity: 0.5,
       }}
     />
-    <h1 style={{ textAlign: "center" }}>Landing Page Starter</h1>
+    <h1 style={{ textAlign: "center" }}>내가 본 만화를 기록하고 <br/>추천 받는 서비스</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      This landing page looks great on all devices and is minimal in design. Add
-      what you want and deploy.
+      <b>만화</b> 좋아하시나요?<br/>
+      내가 본 만화를 기록하고 싶을 때,<br/>
+      만화 카페 또는 웹툰을 찾아볼 때,<br/>
+      나에게 딱 맞는 만화를 <b>추천</b> 받아보세요.<br/>
     </p>
-    <Button>Get Early Access</Button>
+    <Button>ManaZoom</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
       <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
         <MockupContent />

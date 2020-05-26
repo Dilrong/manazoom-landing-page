@@ -6,10 +6,10 @@ import SectionHeader from "./section-header"
 const CallToAction = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
-      title="Stay Updated"
-      description="Give a final call to action because that's what the cool kids are doing."
+      title="To be released during the winter"
+      description="2020년 겨울 안에 만화를 기록하고 추천 받을 수 있습니다."
     />
-    <Button>Get Early Access</Button>
+    <Button>ManaZoom</Button>
   </div>
 )
 

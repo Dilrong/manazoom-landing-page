@@ -12,6 +12,7 @@ const Button = ({ children }) => (
       background: GRADIENT,
       borderRadius: BORDER_RADIUS,
       borderWidth: 0,
+      outline: "none",
       cursor: "pointer",
     }}
   >
