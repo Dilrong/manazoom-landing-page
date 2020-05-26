@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `ManaZoom`,
     description: `보고 싶은 만화 찾을 땐 Manazoom`,
-    author: `@gillkyle`,
-    siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
+    author: `@Dilrong`,
+    siteUrl: `https://manazoom.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID",
+        trackingId: "UA-167774314-1",
       },
     },
     {
