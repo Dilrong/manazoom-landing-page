@@ -7,7 +7,7 @@ const CallToAction = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="To be released during the winter"
-      description="2020년 겨울 안에 만화를 기록하고 추천 받을 수 있습니다."
+      description="2020년 겨울에 만나요!"
     />
     <Button>ManaZoom</Button>
   </div>

@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => (
         opacity: 0.5,
       }}
     />
-    <h1 style={{ textAlign: "center" }}>내가 본 만화를 기록하고 <br/>추천 받는 서비스</h1>
+    <h1 style={{ textAlign: "center" }}>만화 추천 서비스 | ManaZoom
     <p style={{ textAlign: "center", maxWidth: 440 }}>
       <b>만화</b> 좋아하시나요?<br/>
       내가 본 만화를 기록하고 싶을 때,<br/>
